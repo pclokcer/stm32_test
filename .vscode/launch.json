@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "showDevDebugOutput": true,
+      "cwd": "${workspaceRoot}",
+      "executable": "./build/test.elf",
+      "name": "Debug STM32",
+      "request": "launch",
+      "type": "cortex-debug",
+      "servertype": "openocd",
+      "preLaunchTask": "Build STM",
+      "device": "STM32F0308-DISCO",
+      "configFiles": [
+        "openocd.cfg"
+      ]
+    }
+  ]
+}
