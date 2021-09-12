@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 1
 
 
    1              		.cpu cortex-m0
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
   30:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       analog watchdog or overrun events.
   31:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   
   32:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   (+) Single and continuous conversion modes.
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 2
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 2
 
 
   33:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
   87:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                    Into HAL_ADC_MspInit() (recommended code location) or with
   88:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                    other device clock parameters configuration:
   89:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                (+++) __HAL_RCC_ADC1_CLK_ENABLE();                         (mandatory)
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 3
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 3
 
 
   90:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  144:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     (#) Optionally, perform an automatic ADC calibration to improve the
  145:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         conversion accuracy
  146:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         using function HAL_ADCEx_Calibration_Start().
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 4
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 4
 
 
  147:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  201:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****              (+++) Example:
  202:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                    Into HAL_ADC_MspDeInit() (recommended code location) or with
  203:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                    other device clock parameters configuration:
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 5
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 5
 
 
  204:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                (+++) RCC_OscInitStructure.OscillatorType = RCC_OSCILLATORTYPE_HSI14;
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  258:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****      [..]
  259:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
  260:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****      By default, after the HAL_ADC_Init() and when the state is HAL_ADC_STATE_RESET
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 6
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 6
 
 
  261:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****      all callbacks are set to the corresponding weak functions:
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  315:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
  316:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** /* Private typedef -----------------------------------------------------------*/
  317:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** /* Private define ------------------------------------------------------------*/
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 7
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 7
 
 
  318:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** /** @defgroup ADC_Private_Constants ADC Private Constants
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  372:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** @verbatim    
  373:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****  ===============================================================================
  374:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****               ##### Initialization and de-initialization functions #####
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 8
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 8
 
 
  375:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****  ===============================================================================
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  429:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   assert_param(IS_ADC_OVERRUN(hadc->Init.Overrun));
  430:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   assert_param(IS_FUNCTIONAL_STATE(hadc->Init.LowPowerAutoWait));
  431:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   assert_param(IS_FUNCTIONAL_STATE(hadc->Init.LowPowerAutoPowerOff));
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 9
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 9
 
 
  432:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  486:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     /*  - ADC clock prescaler                                                 */
  487:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     /*  - ADC resolution                                                      */
  488:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     if (ADC_IS_ENABLE(hadc) == RESET)
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 10
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 10
 
 
  489:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     {
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  543:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     {
  544:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       if (hadc->Init.ContinuousConvMode == DISABLE)
  545:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       {
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 11
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 11
 
 
  546:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         /* Enable the selected ADC group regular discontinuous mode */
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  600:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     {
  601:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       /* Set ADC error code to none */
  602:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       ADC_CLEAR_ERRORCODE(hadc);
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 12
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 12
 
 
  603:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  657:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   
  658:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   /* Check the parameters */
  659:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   assert_param(IS_ADC_ALL_INSTANCE(hadc->Instance));
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 13
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 13
 
 
  660:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  714:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     hadc->Instance->SMPR &= ~ADC_SMPR_SMP;
  715:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     
  716:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     /* Reset register TR1 */
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 14
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 14
 
 
  717:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     hadc->Instance->TR &= ~(ADC_TR_HT | ADC_TR_LT);
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  771:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   * @param  hadc ADC handle
  772:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   * @retval None
  773:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   */
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 15
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 15
 
 
  774:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** __weak void HAL_ADC_MspInit(ADC_HandleTypeDef* hadc)
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  828:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     return HAL_ERROR;
  829:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   }
  830:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 16
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 16
 
 
  831:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   if ((hadc->State & HAL_ADC_STATE_READY) != 0)
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  885:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         status = HAL_ERROR;
  886:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         break;
  887:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     }
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 17
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 17
 
 
  888:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   }
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  942:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
  943:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       case HAL_ADC_MSPINIT_CB_ID :
  944:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         hadc->MspInitCallback = HAL_ADC_MspInit; /* Legacy weak MspInit              */
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 18
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 18
 
 
  945:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         break;
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  999:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** /** @defgroup ADC_Exported_Functions_Group2 IO operation functions
 1000:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****  *  @brief    IO operation functions 
 1001:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****  *
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 19
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 19
 
 
 1002:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** @verbatim   
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1056:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                         HAL_ADC_STATE_REG_BUSY);
 1057:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
 1058:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       /* Reset ADC all error code fields */
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 20
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 20
 
 
 1059:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       ADC_CLEAR_ERRORCODE(hadc);
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1113:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     {
 1114:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       /* Set ADC state */
 1115:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       ADC_STATE_CLR_SET(hadc->State,
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 21
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 21
 
 
 1116:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                         HAL_ADC_STATE_REG_BUSY,
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1170:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       /* Update ADC state machine to error */
 1171:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       SET_BIT(hadc->State, HAL_ADC_STATE_ERROR_CONFIG);
 1172:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 22
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 22
 
 
 1173:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       /* Process unlocked */
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1227:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         /* HAL_Start_IT(), but is not disabled here because can be used       */
 1228:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         /* by overrun IRQ process below.                                      */
 1229:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         __HAL_ADC_DISABLE_IT(hadc, ADC_IT_EOC | ADC_IT_EOS);
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 23
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 23
 
 
 1230:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1284:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     /* Check if timeout is disabled (set to infinite wait) */
 1285:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     if(Timeout != HAL_MAX_DELAY)
 1286:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     {
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 24
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 24
 
 
 1287:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       if((Timeout == 0U) || ((HAL_GetTick()-tickstart) > Timeout))
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1341:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   *         Interruptions enabled in this function:
 1342:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   *          - EOC (end of conversion of regular group) or EOS (end of 
 1343:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   *            sequence of regular group) depending on ADC initialization 
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 25
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 25
 
 
 1344:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   *            parameter "EOCSelection"
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1398:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         case ADC_EOC_SEQ_CONV: 
 1399:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****           __HAL_ADC_DISABLE_IT(hadc, ADC_IT_EOC);
 1400:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****           __HAL_ADC_ENABLE_IT(hadc, (ADC_IT_EOS | ADC_IT_OVR));
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 26
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 26
 
 
 1401:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****           break;
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1455:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     if (tmp_hal_status == HAL_OK)
 1456:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     {
 1457:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       /* Set ADC state */
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 27
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 27
 
 
 1458:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       ADC_STATE_CLR_SET(hadc->State,
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1512:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                         HAL_ADC_STATE_READY | HAL_ADC_STATE_REG_EOC | HAL_ADC_STATE_REG_OVR | HAL_A
 1513:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                         HAL_ADC_STATE_REG_BUSY);
 1514:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 28
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 28
 
 
 1515:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       /* Reset ADC all error code fields */
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1569:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   *         Each of these interruptions has its dedicated callback function.
 1570:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   * @param  hadc ADC handle
 1571:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   * @retval HAL status.
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 29
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 29
 
 
 1572:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   */
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1626:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                         HAL_ADC_STATE_REG_BUSY,
 1627:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                         HAL_ADC_STATE_READY);
 1628:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     }
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 30
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 30
 
 
 1629:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1683:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   if( (__HAL_ADC_GET_FLAG(hadc, ADC_FLAG_EOC) && __HAL_ADC_GET_IT_SOURCE(hadc, ADC_IT_EOC)) || 
 1684:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       (__HAL_ADC_GET_FLAG(hadc, ADC_FLAG_EOS) && __HAL_ADC_GET_IT_SOURCE(hadc, ADC_IT_EOS))   )
 1685:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   {
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 31
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 31
 
 
 1686:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     /* Update state machine on conversion status if not in error state */
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1740:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     /*       Therefore, if the preserved data value is needed, it must be     */
 1741:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     /*       read preliminarily into HAL_ADC_ConvCpltCallback().              */
 1742:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     __HAL_ADC_CLEAR_FLAG(hadc, (ADC_FLAG_EOC | ADC_FLAG_EOS) );
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 32
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 32
 
 
 1743:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   }
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1797:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   * @param  hadc ADC handle
 1798:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   * @retval None
 1799:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   */
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 33
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 33
 
 
 1800:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** __weak void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef* hadc)
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1854:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** }
 1855:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
 1856:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 34
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 34
 
 
 1857:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** /**
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1911:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   {
 1912:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     assert_param(IS_ADC_SAMPLE_TIME(sConfig->SamplingTime));
 1913:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   }
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 35
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 35
 
 
 1914:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1968:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         if (sConfig->Channel == ADC_CHANNEL_TEMPSENSOR)
 1969:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         {
 1970:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****           /* Delay for temperature sensor stabilization time */
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 36
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 36
 
 
 1971:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****           /* Compute number of CPU cycles to wait for */
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2025:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   *         the ADC.
 2026:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   *         The setting of these parameters is conditioned to ADC state.
 2027:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   *         For parameters constraints, see comments of structure 
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 37
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 37
 
 
 2028:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   *         "ADC_AnalogWDGConfTypeDef".
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2082:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     hadc->Instance->TR &= ~(ADC_TR_HT | ADC_TR_LT);
 2083:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     hadc->Instance->TR |=  ( ADC_TRX_HIGHTHRESHOLD (tmpAWDHighThresholdShifted) |
 2084:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                              tmpAWDLowThresholdShifted                           );
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 38
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 38
 
 
 2085:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2139:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       (+) Check the ADC error code
 2140:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
 2141:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** @endverbatim
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 39
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 39
 
 
 2142:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   * @{
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2196:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   * @param  hadc ADC handle
 2197:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   * @retval HAL status.
 2198:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   */
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 40
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 40
 
 
 2199:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** static HAL_StatusTypeDef ADC_Enable(ADC_HandleTypeDef* hadc)
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2253:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     }
 2254:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   }
 2255:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****    
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 41
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 41
 
 
 2256:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   /* Return HAL status */
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2310:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****           return HAL_ERROR;
 2311:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         }
 2312:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       }
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 42
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 42
 
 
 2313:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     }
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
   51              		.loc 1 2342 9 is_stmt 0 view .LVU8
   52 000c 9A68     		ldr	r2, [r3, #8]
   53              		.loc 1 2342 8 view .LVU9
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 43
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 43
 
 
   54 000e 5207     		lsls	r2, r2, #29
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2356:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       {
 2357:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         /* New check to avoid false timeout detection in case of preemption */
 2358:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         if((hadc->Instance->CR & ADC_CR_ADSTART) != RESET)
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 44
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 44
 
 
   94              		.loc 1 2358 9 is_stmt 1 view .LVU26
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  132              	.LFE64:
  134              		.section	.text.ADC_Disable,"ax",%progbits
  135              		.align	1
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 45
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 45
 
 
  136              		.syntax unified
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2274:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   {
  182              		.loc 1 2274 7 discriminator 4 view .LVU47
  183 001a D368     		ldr	r3, [r2, #12]
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 46
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 46
 
 
  184 001c 1B04     		lsls	r3, r3, #16
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2295:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     
  225              		.loc 1 2295 17 is_stmt 0 view .LVU61
  226 004c FFF7FEFF 		bl	HAL_GetTick
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 47
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 47
 
 
  227              	.LVL15:
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  266              		.loc 1 2310 11 view .LVU76
 2310:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         }
  267              		.loc 1 2310 18 is_stmt 0 view .LVU77
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 48
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 48
 
 
  268 007c 0120     		movs	r0, #1
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2208:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   {
  316              		.loc 1 2208 3 is_stmt 1 view .LVU86
 2208:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   {
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 49
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 49
 
 
  317              		.loc 1 2208 7 is_stmt 0 view .LVU87
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  357              		.loc 1 2230 22 is_stmt 0 view .LVU101
  358 0038 019B     		ldr	r3, [sp, #4]
  359 003a 013B     		subs	r3, r3, #1
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 50
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 50
 
 
  360 003c 0193     		str	r3, [sp, #4]
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  402              		.loc 1 2237 5 is_stmt 1 view .LVU113
  403              	.L25:
 2237:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     {
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 51
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 51
 
 
  404              		.loc 1 2237 10 view .LVU114
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  444              	.LVL31:
  445              	.L21:
 2258:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 52
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 52
 
 
  446              		.loc 1 2258 1 view .LVU129
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  497              		.fpu softvfp
  499              	HAL_ADC_Init:
  500              	.LVL36:
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 53
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 53
 
 
  501              	.LFB40:
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  431:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   
  536              		.loc 1 431 3 view .LVU155
  441:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   {
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 54
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 54
 
 
  537              		.loc 1 441 3 view .LVU156
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  581              	.L40:
  499:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                  ADC_CFGR1_RES        ,
  582              		.loc 1 499 7 is_stmt 1 view .LVU167
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 55
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 55
 
 
  583 0040 D368     		ldr	r3, [r2, #12]
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  626              	.L42:
  535:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                  ADC_CFGR1_OVERRUN(hadc->Init.Overrun)                            |
  627              		.loc 1 535 83 view .LVU179
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 56
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 56
 
 
  628 007e 1343     		orrs	r3, r2
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  668              	.L46:
  575:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     
  669              		.loc 1 575 5 is_stmt 1 view .LVU194
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 57
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 57
 
 
  575:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  709              		.loc 1 587 28 view .LVU209
  710 00da 4169     		ldr	r1, [r0, #20]
  711 00dc 0722     		movs	r2, #7
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 58
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 58
 
 
  712 00de 9143     		bics	r1, r2
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  752              	.LVL42:
  619:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     }
  753              		.loc 1 619 22 is_stmt 0 view .LVU224
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 59
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 59
 
 
  754 010e 0120     		movs	r0, #1
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  795 0138 8022     		movs	r2, #128
  796 013a 5202     		lsls	r2, r2, #9
  797 013c 1343     		orrs	r3, r2
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 60
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 60
 
 
  798              	.LVL46:
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  633:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
  842              		.loc 1 633 1 view .LVU248
  843              		@ sp needed
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 61
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 61
 
 
  844              	.LVL51:
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  896              	.LFB41:
  649:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   HAL_StatusTypeDef tmp_hal_status = HAL_OK;
  897              		.loc 1 649 1 is_stmt 1 view -0
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 62
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 62
 
 
  898              		.cfi_startproc
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  938              		.loc 1 762 3 is_stmt 1 view .LVU269
  762:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   
  939              		.loc 1 762 3 view .LVU270
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 63
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 63
 
 
  940 001a 3423     		movs	r3, #52
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  981              		.loc 1 694 5 view .LVU283
  982 0040 2368     		ldr	r3, [r4]
  983 0042 1A60     		str	r2, [r3]
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 64
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 64
 
 
  703:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                                ADC_CFGR1_AUTOFF  | ADC_CFGR1_WAIT   | ADC_CFGR1_CONT   | ADC_CFGR1_
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1023 0074 9362     		str	r3, [r2, #40]
  730:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
  1024              		.loc 1 730 5 is_stmt 1 view .LVU299
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 65
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 65
 
 
  730:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1073 0000 10B5     		push	{r4, lr}
  1074              	.LCFI6:
  1075              		.cfi_def_cfa_offset 8
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 66
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 66
 
 
  1076              		.cfi_offset 4, -8
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1116 002c 1343     		orrs	r3, r2
  1117 002e A363     		str	r3, [r4, #56]
 1059:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 67
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 67
 
 
  1118              		.loc 1 1059 7 view .LVU322
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1158 0054 0220     		movs	r0, #2
  1159              	.LVL76:
 1080:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   }
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 68
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 68
 
 
  1160              		.loc 1 1080 20 view .LVU337
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1207              		.loc 1 1100 3 discriminator 2 view .LVU346
  1208 000c 3423     		movs	r3, #52
  1209 000e 0122     		movs	r2, #1
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 69
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 69
 
 
  1210 0010 C254     		strb	r2, [r0, r3]
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1248 002a F6D1     		bne	.L80
 1115:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                         HAL_ADC_STATE_REG_BUSY,
  1249              		.loc 1 1115 7 is_stmt 1 view .LVU363
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 70
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 70
 
 
  1250 002c A36B     		ldr	r3, [r4, #56]
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1300              		.loc 1 1149 3 view .LVU369
 1152:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
  1301              		.loc 1 1152 3 view .LVU370
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 71
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 71
 
 
 1155:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   {
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1339              		.loc 1 1193 7 is_stmt 1 view .LVU387
 1193:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       {
  1340              		.loc 1 1193 9 is_stmt 0 view .LVU388
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 72
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 72
 
 
  1341 0028 002E     		cmp	r6, #0
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1380              		.loc 1 1176 14 is_stmt 0 view .LVU403
  1381 0054 0120     		movs	r0, #1
  1382              	.LVL95:
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 73
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 73
 
 
 1176:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     }
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1223:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       {
  1423              		.loc 1 1223 11 is_stmt 0 view .LVU418
  1424 0084 9A68     		ldr	r2, [r3, #8]
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 74
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 74
 
 
 1223:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       {
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1468 00b6 E36B     		ldr	r3, [r4, #60]
  1469 00b8 1F3A     		subs	r2, r2, #31
  1470 00ba 1343     		orrs	r3, r2
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 75
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 75
 
 
  1471 00bc E363     		str	r3, [r4, #60]
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1519              	.LVL104:
 1279:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
  1520              		.loc 1 1279 15 view .LVU438
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 76
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 76
 
 
  1521 000c 0500     		movs	r5, r0
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1560              		.loc 1 1296 11 view .LVU453
 1298:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         }
  1561              		.loc 1 1298 11 view .LVU454
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 77
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 77
 
 
 1298:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         }
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1603 005a B26B     		ldr	r2, [r6, #56]
  1604 005c 8023     		movs	r3, #128
  1605 005e 5B02     		lsls	r3, r3, #9
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 78
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 78
 
 
  1606 0060 1343     		orrs	r3, r2
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1352:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   
  1654              		.loc 1 1352 3 is_stmt 1 view .LVU476
  1655              	.LVL113:
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 79
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 79
 
 
 1355:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1387:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
  1696              		.loc 1 1387 7 view .LVU491
 1387:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 80
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 80
 
 
  1697              		.loc 1 1387 7 view .LVU492
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1372:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     {
  1738              		.loc 1 1372 8 is_stmt 0 view .LVU506
  1739 005e 0028     		cmp	r0, #0
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 81
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 81
 
 
  1740 0060 FAD1     		bne	.L116
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1789              	.LFB49:
 1432:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   HAL_StatusTypeDef tmp_hal_status = HAL_OK;
  1790              		.loc 1 1432 1 is_stmt 1 view -0
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 82
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 82
 
 
  1791              		.cfi_startproc
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1468:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** }
  1831              		.loc 1 1468 3 view .LVU529
  1832              	.LVL127:
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 83
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 83
 
 
  1833              	.L128:
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1876              	.L132:
  1877 004c FEFEFFFF 		.word	-258
  1878              		.cfi_endproc
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 84
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 84
 
 
  1879              	.LFE49:
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1925              		.loc 1 1495 5 discriminator 2 view .LVU550
  1926 0018 3423     		movs	r3, #52
  1927 001a 0122     		movs	r2, #1
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 85
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 85
 
 
  1928              	.LVL136:
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  1967              		.loc 1 1521 7 view .LVU565
  1968 0042 3422     		movs	r2, #52
  1969 0044 A354     		strb	r3, [r4, r2]
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 86
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 86
 
 
 1521:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1548:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****            
  2008              		.loc 1 1548 52 is_stmt 0 view .LVU582
  2009 0072 2168     		ldr	r1, [r4]
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 87
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 87
 
 
  2010 0074 4031     		adds	r1, r1, #64
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2057              		.code	16
  2058              		.thumb_func
  2059              		.fpu softvfp
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 88
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 88
 
 
  2061              	HAL_ADC_Stop_DMA:
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2101              		.loc 1 1590 5 is_stmt 1 view .LVU604
 1590:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     
  2102              		.loc 1 1590 9 is_stmt 0 view .LVU605
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 89
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 89
 
 
  2103 001a 2268     		ldr	r2, [r4]
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2144 0048 A36B     		ldr	r3, [r4, #56]
  2145 004a 0D4A     		ldr	r2, .L150
  2146 004c 1340     		ands	r3, r2
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 90
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 90
 
 
  2147 004e 0432     		adds	r2, r2, #4
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2189 0074 FFF7FEFF 		bl	ADC_Disable
  2190              	.LVL161:
  2191 0078 E4E7     		b	.L147
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 91
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 91
 
 
  2192              	.LVL162:
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2243              	.LFB54:
 1801:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   /* Prevent unused argument(s) compilation warning */
  2244              		.loc 1 1801 1 is_stmt 1 view -0
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 92
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 92
 
 
  2245              		.cfi_startproc
@@ -5518,7 +5518,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2285 0008 1142     		tst	r1, r2
  2286 000a 2BD1     		bne	.L155
 2389:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   {
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 93
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 93
 
 
 2390:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     /* Set ADC state */
@@ -5578,7 +5578,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2409:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****           __HAL_ADC_DISABLE_IT(hadc, ADC_IT_EOC | ADC_IT_EOS);
  2321              		.loc 1 2409 11 is_stmt 1 view .LVU661
  2322 0034 5168     		ldr	r1, [r2, #4]
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 94
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 94
 
 
  2323 0036 0C20     		movs	r0, #12
@@ -5638,7 +5638,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2345              		.loc 1 2419 11 is_stmt 1 view .LVU665
  2346 0052 9A6B     		ldr	r2, [r3, #56]
  2347 0054 2021     		movs	r1, #32
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 95
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 95
 
 
  2348 0056 0A43     		orrs	r2, r1
@@ -5698,7 +5698,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2396              		.cfi_endproc
  2397              	.LFE55:
  2399              		.section	.text.ADC_DMAHalfConvCplt,"ax",%progbits
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 96
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 96
 
 
  2400              		.align	1
@@ -5758,7 +5758,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2438              		.fpu softvfp
  2440              	HAL_ADC_LevelOutOfWindowCallback:
  2441              	.LVL178:
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 97
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 97
 
 
  2442              	.LFB56:
@@ -5818,7 +5818,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2465:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** static void ADC_DMAError(DMA_HandleTypeDef *hdma)   
 2466:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** {
  2488              		.loc 1 2466 1 is_stmt 1 view -0
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 98
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 98
 
 
  2489              		.cfi_startproc
@@ -5878,7 +5878,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2529              	HAL_ADC_IRQHandler:
  2530              	.LVL183:
  2531              	.LFB53:
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 99
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 99
 
 
 1676:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   /* Check the parameters */
@@ -5938,7 +5938,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1687:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     {
  2571              		.loc 1 1687 9 is_stmt 0 view .LVU710
  2572 001e A26B     		ldr	r2, [r4, #56]
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 100
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 100
 
 
 1687:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     {
@@ -5998,7 +5998,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1712:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                             HAL_ADC_STATE_REG_BUSY,
  2613              		.loc 1 1712 11 view .LVU725
  2614 0052 A36B     		ldr	r3, [r4, #56]
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 101
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 101
 
 
  2615 0054 204A     		ldr	r2, .L178
@@ -6058,7 +6058,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2656 0084 D206     		lsls	r2, r2, #27
  2657 0086 11D5     		bpl	.L166
 1772:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****         HAL_IS_BIT_SET(hadc->Instance->CFGR1, ADC_CFGR1_DMAEN)  )
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 102
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 102
 
 
  2658              		.loc 1 1772 5 is_stmt 1 view .LVU739
@@ -6118,7 +6118,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2701 00b8 1F3A     		subs	r2, r2, #31
  2702 00ba 1343     		orrs	r3, r2
  2703 00bc E363     		str	r3, [r4, #60]
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 103
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 103
 
 
  2704 00be CFE7     		b	.L171
@@ -6178,7 +6178,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1902:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   __IO uint32_t wait_loop_index = 0U;
  2755              		.loc 1 1902 3 is_stmt 1 view .LVU756
  2756              	.LVL192:
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 104
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 104
 
 
 1903:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
@@ -6238,7 +6238,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1932:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
  2794              		.loc 1 1932 7 is_stmt 1 view .LVU774
 1932:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 105
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 105
 
 
  2795              		.loc 1 1932 30 is_stmt 0 view .LVU775
@@ -6298,7 +6298,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2835 005c 2268     		ldr	r2, [r4]
  2836 005e 5069     		ldr	r0, [r2, #20]
  2837 0060 0723     		movs	r3, #7
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 106
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 106
 
 
  2838 0062 0340     		ands	r3, r0
@@ -6358,7 +6358,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2877              		.loc 1 1965 21 view .LVU804
  2878 0090 102B     		cmp	r3, #16
  2879 0092 09D0     		beq	.L197
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 107
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 107
 
 
  2880 0094 8023     		movs	r3, #128
@@ -6418,7 +6418,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 1975:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****           }
  2921              		.loc 1 1975 13 is_stmt 1 view .LVU818
 1975:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****           }
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 108
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 108
 
 
  2922              		.loc 1 1975 28 is_stmt 0 view .LVU819
@@ -6478,7 +6478,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  2962 00ec 0C4A     		ldr	r2, .L201+4
  2963 00ee 1268     		ldr	r2, [r2]
 1994:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****       }
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 109
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 109
 
 
  2964              		.loc 1 1994 21 view .LVU834
@@ -6538,7 +6538,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  3006              		.loc 1 2016 1 view .LVU846
  3007 0116 30BD     		pop	{r4, r5, pc}
  3008              	.LVL202:
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 110
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 110
 
 
  3009              	.L190:
@@ -6598,7 +6598,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  3056              		.loc 1 2042 3 view .LVU855
 2043:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c **** 
  3057              		.loc 1 2043 3 view .LVU856
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 111
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 111
 
 
 2046:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   assert_param(IS_ADC_RANGE(ADC_GET_RESOLUTION(hadc), AnalogWDGConfig->LowThreshold));
@@ -6658,7 +6658,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  3094 0026 4868     		ldr	r0, [r1, #4]
  3095 0028 8006     		lsls	r0, r0, #26
 2073:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                                ADC_CFGR_AWDCH(AnalogWDGConfig->Channel)  );
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 112
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 112
 
 
  3096              		.loc 1 2073 73 view .LVU875
@@ -6718,7 +6718,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  3137 005c 1204     		lsls	r2, r2, #16
  3138              	.LVL209:
 2083:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****                              tmpAWDLowThresholdShifted                           );
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 113
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 113
 
 
  3139              		.loc 1 2083 81 view .LVU889
@@ -6778,7 +6778,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  3181 008c 2021     		movs	r1, #32
  3182              	.LVL214:
 2109:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****     
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 114
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 114
 
 
  3183              		.loc 1 2109 5 is_stmt 0 view .LVU902
@@ -6838,7 +6838,7 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
 2156:Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_adc.c ****   /* Check the parameters */
  3230              		.loc 1 2156 1 is_stmt 1 view -0
  3231              		.cfi_startproc
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 115
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 115
 
 
  3232              		@ args = 0, pretend = 0, frame = 0
@@ -6897,84 +6897,84 @@ ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 1
  3280              		.file 8 "Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_adc.h"
  3281              		.file 9 "Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h"
  3282              		.file 10 "Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h"
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 116
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 116
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32f0xx_hal_adc.c
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:16     .text.ADC_ConversionStop:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:23     .text.ADC_ConversionStop:0000000000000000 ADC_ConversionStop
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:135    .text.ADC_Disable:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:141    .text.ADC_Disable:0000000000000000 ADC_Disable
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:286    .text.ADC_Enable:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:292    .text.ADC_Enable:0000000000000000 ADC_Enable
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:462    .text.ADC_Enable:00000000000000a4 $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:469    .text.HAL_ADC_MspInit:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:476    .text.HAL_ADC_MspInit:0000000000000000 HAL_ADC_MspInit
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:492    .text.HAL_ADC_Init:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:499    .text.HAL_ADC_Init:0000000000000000 HAL_ADC_Init
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:857    .text.HAL_ADC_Init:0000000000000178 $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:864    .text.HAL_ADC_MspDeInit:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:871    .text.HAL_ADC_MspDeInit:0000000000000000 HAL_ADC_MspDeInit
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:887    .text.HAL_ADC_DeInit:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:894    .text.HAL_ADC_DeInit:0000000000000000 HAL_ADC_DeInit
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1050   .text.HAL_ADC_DeInit:0000000000000094 $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1058   .text.HAL_ADC_Start:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1065   .text.HAL_ADC_Start:0000000000000000 HAL_ADC_Start
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1172   .text.HAL_ADC_Start:000000000000005c $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1177   .text.HAL_ADC_Stop:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1184   .text.HAL_ADC_Stop:0000000000000000 HAL_ADC_Stop
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1268   .text.HAL_ADC_Stop:0000000000000040 $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1273   .text.HAL_ADC_PollForConversion:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1280   .text.HAL_ADC_PollForConversion:0000000000000000 HAL_ADC_PollForConversion
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1480   .text.HAL_ADC_PollForConversion:00000000000000c4 $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1485   .text.HAL_ADC_PollForEvent:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1492   .text.HAL_ADC_PollForEvent:0000000000000000 HAL_ADC_PollForEvent
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1633   .text.HAL_ADC_Start_IT:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1640   .text.HAL_ADC_Start_IT:0000000000000000 HAL_ADC_Start_IT
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1775   .text.HAL_ADC_Start_IT:0000000000000084 $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1780   .text.HAL_ADC_Stop_IT:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1787   .text.HAL_ADC_Stop_IT:0000000000000000 HAL_ADC_Stop_IT
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1877   .text.HAL_ADC_Stop_IT:000000000000004c $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1882   .text.HAL_ADC_Start_DMA:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:1889   .text.HAL_ADC_Start_DMA:0000000000000000 HAL_ADC_Start_DMA
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2046   .text.HAL_ADC_Start_DMA:0000000000000098 $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2263   .text.ADC_DMAConvCplt:0000000000000000 ADC_DMAConvCplt
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2406   .text.ADC_DMAHalfConvCplt:0000000000000000 ADC_DMAHalfConvCplt
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2485   .text.ADC_DMAError:0000000000000000 ADC_DMAError
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2054   .text.HAL_ADC_Stop_DMA:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2061   .text.HAL_ADC_Stop_DMA:0000000000000000 HAL_ADC_Stop_DMA
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2200   .text.HAL_ADC_Stop_DMA:0000000000000080 $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2205   .text.HAL_ADC_GetValue:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2212   .text.HAL_ADC_GetValue:0000000000000000 HAL_ADC_GetValue
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2234   .text.HAL_ADC_ConvCpltCallback:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2241   .text.HAL_ADC_ConvCpltCallback:0000000000000000 HAL_ADC_ConvCpltCallback
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2257   .text.ADC_DMAConvCplt:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2372   .text.ADC_DMAConvCplt:000000000000006c $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2377   .text.HAL_ADC_ConvHalfCpltCallback:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2384   .text.HAL_ADC_ConvHalfCpltCallback:0000000000000000 HAL_ADC_ConvHalfCpltCallback
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2400   .text.ADC_DMAHalfConvCplt:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2433   .text.HAL_ADC_LevelOutOfWindowCallback:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2440   .text.HAL_ADC_LevelOutOfWindowCallback:0000000000000000 HAL_ADC_LevelOutOfWindowCallback
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2456   .text.HAL_ADC_ErrorCallback:0000000000000000 $t
-ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s 			page 117
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:16     .text.ADC_ConversionStop:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:23     .text.ADC_ConversionStop:0000000000000000 ADC_ConversionStop
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:135    .text.ADC_Disable:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:141    .text.ADC_Disable:0000000000000000 ADC_Disable
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:286    .text.ADC_Enable:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:292    .text.ADC_Enable:0000000000000000 ADC_Enable
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:462    .text.ADC_Enable:00000000000000a4 $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:469    .text.HAL_ADC_MspInit:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:476    .text.HAL_ADC_MspInit:0000000000000000 HAL_ADC_MspInit
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:492    .text.HAL_ADC_Init:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:499    .text.HAL_ADC_Init:0000000000000000 HAL_ADC_Init
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:857    .text.HAL_ADC_Init:0000000000000178 $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:864    .text.HAL_ADC_MspDeInit:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:871    .text.HAL_ADC_MspDeInit:0000000000000000 HAL_ADC_MspDeInit
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:887    .text.HAL_ADC_DeInit:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:894    .text.HAL_ADC_DeInit:0000000000000000 HAL_ADC_DeInit
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1050   .text.HAL_ADC_DeInit:0000000000000094 $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1058   .text.HAL_ADC_Start:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1065   .text.HAL_ADC_Start:0000000000000000 HAL_ADC_Start
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1172   .text.HAL_ADC_Start:000000000000005c $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1177   .text.HAL_ADC_Stop:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1184   .text.HAL_ADC_Stop:0000000000000000 HAL_ADC_Stop
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1268   .text.HAL_ADC_Stop:0000000000000040 $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1273   .text.HAL_ADC_PollForConversion:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1280   .text.HAL_ADC_PollForConversion:0000000000000000 HAL_ADC_PollForConversion
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1480   .text.HAL_ADC_PollForConversion:00000000000000c4 $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1485   .text.HAL_ADC_PollForEvent:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1492   .text.HAL_ADC_PollForEvent:0000000000000000 HAL_ADC_PollForEvent
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1633   .text.HAL_ADC_Start_IT:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1640   .text.HAL_ADC_Start_IT:0000000000000000 HAL_ADC_Start_IT
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1775   .text.HAL_ADC_Start_IT:0000000000000084 $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1780   .text.HAL_ADC_Stop_IT:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1787   .text.HAL_ADC_Stop_IT:0000000000000000 HAL_ADC_Stop_IT
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1877   .text.HAL_ADC_Stop_IT:000000000000004c $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1882   .text.HAL_ADC_Start_DMA:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:1889   .text.HAL_ADC_Start_DMA:0000000000000000 HAL_ADC_Start_DMA
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2046   .text.HAL_ADC_Start_DMA:0000000000000098 $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2263   .text.ADC_DMAConvCplt:0000000000000000 ADC_DMAConvCplt
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2406   .text.ADC_DMAHalfConvCplt:0000000000000000 ADC_DMAHalfConvCplt
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2485   .text.ADC_DMAError:0000000000000000 ADC_DMAError
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2054   .text.HAL_ADC_Stop_DMA:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2061   .text.HAL_ADC_Stop_DMA:0000000000000000 HAL_ADC_Stop_DMA
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2200   .text.HAL_ADC_Stop_DMA:0000000000000080 $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2205   .text.HAL_ADC_GetValue:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2212   .text.HAL_ADC_GetValue:0000000000000000 HAL_ADC_GetValue
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2234   .text.HAL_ADC_ConvCpltCallback:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2241   .text.HAL_ADC_ConvCpltCallback:0000000000000000 HAL_ADC_ConvCpltCallback
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2257   .text.ADC_DMAConvCplt:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2372   .text.ADC_DMAConvCplt:000000000000006c $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2377   .text.HAL_ADC_ConvHalfCpltCallback:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2384   .text.HAL_ADC_ConvHalfCpltCallback:0000000000000000 HAL_ADC_ConvHalfCpltCallback
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2400   .text.ADC_DMAHalfConvCplt:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2433   .text.HAL_ADC_LevelOutOfWindowCallback:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2440   .text.HAL_ADC_LevelOutOfWindowCallback:0000000000000000 HAL_ADC_LevelOutOfWindowCallback
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2456   .text.HAL_ADC_ErrorCallback:0000000000000000 $t
+ARM GAS  C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s 			page 117
 
 
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2463   .text.HAL_ADC_ErrorCallback:0000000000000000 HAL_ADC_ErrorCallback
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2479   .text.ADC_DMAError:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2522   .text.HAL_ADC_IRQHandler:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2529   .text.HAL_ADC_IRQHandler:0000000000000000 HAL_ADC_IRQHandler
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2725   .text.HAL_ADC_IRQHandler:00000000000000d8 $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2730   .text.HAL_ADC_ConfigChannel:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:2737   .text.HAL_ADC_ConfigChannel:0000000000000000 HAL_ADC_ConfigChannel
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:3018   .text.HAL_ADC_ConfigChannel:000000000000011c $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:3028   .text.HAL_ADC_AnalogWDGConfig:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:3035   .text.HAL_ADC_AnalogWDGConfig:0000000000000000 HAL_ADC_AnalogWDGConfig
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:3214   .text.HAL_ADC_AnalogWDGConfig:00000000000000a0 $d
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:3220   .text.HAL_ADC_GetState:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:3227   .text.HAL_ADC_GetState:0000000000000000 HAL_ADC_GetState
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:3247   .text.HAL_ADC_GetError:0000000000000000 $t
-C:\Users\PcLokcer\AppData\Local\Temp\ccoNs95U.s:3254   .text.HAL_ADC_GetError:0000000000000000 HAL_ADC_GetError
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2463   .text.HAL_ADC_ErrorCallback:0000000000000000 HAL_ADC_ErrorCallback
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2479   .text.ADC_DMAError:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2522   .text.HAL_ADC_IRQHandler:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2529   .text.HAL_ADC_IRQHandler:0000000000000000 HAL_ADC_IRQHandler
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2725   .text.HAL_ADC_IRQHandler:00000000000000d8 $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2730   .text.HAL_ADC_ConfigChannel:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:2737   .text.HAL_ADC_ConfigChannel:0000000000000000 HAL_ADC_ConfigChannel
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:3018   .text.HAL_ADC_ConfigChannel:000000000000011c $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:3028   .text.HAL_ADC_AnalogWDGConfig:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:3035   .text.HAL_ADC_AnalogWDGConfig:0000000000000000 HAL_ADC_AnalogWDGConfig
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:3214   .text.HAL_ADC_AnalogWDGConfig:00000000000000a0 $d
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:3220   .text.HAL_ADC_GetState:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:3227   .text.HAL_ADC_GetState:0000000000000000 HAL_ADC_GetState
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:3247   .text.HAL_ADC_GetError:0000000000000000 $t
+C:\Users\PcLokcer\AppData\Local\Temp\cccwBWYw.s:3254   .text.HAL_ADC_GetError:0000000000000000 HAL_ADC_GetError
 
 UNDEFINED SYMBOLS
 HAL_GetTick
